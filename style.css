@@ -1,0 +1,21 @@
+ul{
+
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: grey;
+}
+li{
+    float: right;
+
+    }
+li a{
+    color: white;
+    padding: 14px;
+    font-size: 14px;
+    font-family: Nakula;
+    text-decoration: none;
+    display: block;
+
+}
